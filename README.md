@@ -1,94 +1,97 @@
-<!--
-  __________                _    _ _ _ 
- |  _  \ ___  ___ _ __ ___ | |  (_) | |
- | | | |/ _ \/ __| '_ ` _ \| |  | | | |
- | |/ /| (_) \__ \ | | | | | |__| | | |
- |___/  \___/|___/_| |_| |_|\____/|_|_|
-                                        
-
-Welcome to **imnick48**’s GitHub!
--->
-
 <p align="center">
-  <img width="250" src="https://user-images.githubusercontent.com/USERNAME/your-banner.png" alt="Banner"/>
+  <img width="200" src="https://github.com/imnick48.png" alt="Sagnick Das" style="border-radius:50%"/>
 </p>
 
-# Hi there, I’m Nick 👋
+# Hi, I’m Sagnick Das 👋
 
-- 🔭 I’m currently working on **LLaMA‑Style Vision Models** at [Your Lab/Company]()
-- 🌱 I’m learning advanced techniques in **multimodal LLMs**, **self‑supervised vision**, and **efficient fine‑tuning**
-- 💬 Ask me about **PyTorch**, **computer vision**, **transformers**, or **data pipelines**
-- 📫 How to reach me: [✉️ Email](mailto:your.email@example.com) | [🐦 Twitter](https://twitter.com/yourhandle)
-- ⚡ Fun fact: I love hiking, chess, and coffee ☕️
+**Final-year Data Science undergraduate** at MCKV Institute of Engineering, West Bengal.
+
+* 📍 Bagnan, Howrah, India
+* 📫 Reach me: [dassagnick48@gmail.com](mailto:dassagnick48@gmail.com)
+* 💼 LinkedIn: [sagnick-das-71268b176](https://www.linkedin.com/in/sagnick-das-71268b176/)
+* 🌐 Portfolio: [sagnickportfolio48.vercel.app](https://sagnickportfolio48.vercel.app/)
+* 🐙 GitHub: [imnick48](https://github.com/imnick48)
 
 ---
 
-## 🧰 Skills & Tools
+## 🎯 Professional Summary
 
-#### Programming
-- **Python**, C++, JavaScript
+Driven final-year Data Science student with hands-on experience designing AI/ML tools for HR automation and DevOps workflows. Proficient in Python, JavaScript, R, and C++, with strong expertise in NLP, cloud deployment, and data visualization. Delivered end-to-end solutions that streamlined screening processes and enhanced chatbot accuracy.
 
-#### Deep Learning Frameworks
-- **PyTorch**, TensorFlow, JAX
+---
 
-#### CV & LLMs
-- Convolutional Neural Nets, Vision Transformers, Diffusion Models
-- Hugging Face Transformers, OpenCV, Detectron2
+## 🎓 Education
 
-#### Infrastructure
-- Docker, Kubernetes, AWS (S3, EC2), GitHub Actions
+**Bachelor of Technology in Computer Science & Engineering (Data Science)**
+MCKV Institute of Engineering, West Bengal — 2022–2026 (Expected)
+GPA: 8.08/10.0
+Relevant Coursework: Data Structures, Statistics, Machine Learning, Databases
+Activities: Active Member, Coders Club
 
-#### Data & Visualization
-- Pandas, NumPy, Matplotlib, Plotly
+---
+
+## 🛠️ Technical Skills
+
+* **Programming:** Python · JavaScript · R · C++
+* **ML & DL:** TensorFlow · PyTorch · Scikit-Learn
+* **Cloud & DevOps:** AWS · Docker · Git · GitHub Actions
+* **Databases:** MySQL · MongoDB · PostgreSQL · SQLite
+* **Backend & API:** FastAPI · Flask · Express
+* **Frontend:** HTML · CSS · React
+* **NLP Tools:** Hugging Face · NLTK
+* **Visualization:** Matplotlib · Plotly · Tableau
+* **Platforms & IDEs:** Linux · VS Code · Jupyter Notebook
+
+---
+
+## 💼 Experience & Certifications
+
+**Forage BCG GenAI Virtual Internship Certificate**
+
+* Analyzed 3 Fortune 500 companies’ 10-K filings (Microsoft, Tesla, Apple), calculating 15+ financial ratios and developing 5 interactive Jupyter visualizations.
+* Engineered a rule-based CLI chatbot with pandas to query CSV financial datasets, achieving 95% accuracy and sub-second response times.
+
+**Certifications:**
+
+* Introduction to Artificial Intelligence by IBM and EduNet Foundation (Mar 2025)
+* Introduction to Large Language Models (May 2025)
+* Building RAG Chatbot Using Python (May 2025)
 
 ---
 
 ## 🚀 Featured Projects
 
-### [Vision‑LLaMA](https://github.com/imnick48/vision-llama)  
-A PyTorch implementation of LLaMA‑style models adapted for image understanding. Supports efficient fine‑tuning on custom datasets via Low‑Rank Adaptation (LoRA).
+### [Resume Scanner](https://github.com/imnick48/Resume_Scanner)
 
-- 🔍 **Highlights:** cross‑modal attention, adapter modules, inference benchmarks  
-- 📄 **Paper:** [Link to preprint or blog post]()
+AI-powered resume screening platform built with MiniLM and Mistral-7B to automate candidate evaluation.
+
+* Scalable Flask/PostgreSQL/React stack handling 500+ profiles per job.
+* Automated ranking algorithm (scores 1–100) identifying top 10% candidates with 85% precision.
+
+### [CodeGenX](https://github.com/imnick48/CodeGenX)
+
+Node.js automation agent converting natural language prompts to executable code via OpenRouter AI.
+
+* Achieved 88% success rate on 20+ filesystem operations with JSON validation.
+* SQLite integration storing 500+ conversation histories, boosting AI accuracy by 40%.
+
+### [Research Automation Platform](https://github.com/imnick48/Research_Automation_Platform)
+
+Automated research paper retrieval and vectorization using ArXiv API, LangGraph, and ChromaDB.
+
+* Indexed 100+ papers in under 5 minutes with parallelized processing for fast semantic search.
+* Delivered real-time query responses (under 2 seconds) using integrated RAG pipeline with HuggingFace + Groq LLMs.
 
 ---
 
-### [Self‑Supervised‑CV](https://github.com/imnick48/self-supervised-cv)  
-An experimental library for self‑supervised representation learning in vision: SimCLR, BYOL, MoCo, SwAV implementations.
-
-- 🏆 Top‑1 accuracy improvements on ImageNet  
-- 📘 Detailed Jupyter notebooks for tutorial-style demos
-
----
-
-### [Data‑Pipeline‑Framework](https://github.com/imnick48/data-pipeline-framework)  
-A flexible, scalable ETL pipeline for preparing large‑scale vision datasets. Built with Prefect & Dask.
-
-- ⚙️ Automated data validation, augmentation, and logging  
-- 📊 Built‑in dashboard for monitoring runs
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <p float="left">
   <img src="https://github-readme-stats.vercel.app/api?username=imnick48&show_icons=true&theme=default" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnick48&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
----
 
-## 🤝 Let’s Connect
-
-- 📺 Check out my talks: [YouTube Playlist]()
-- 📝 Read my blog: [Medium/Towards AI]()
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]()
-
----
-
-<p align="center">
-  <sub>Made with ❤️ by imnick48 • Last updated: July 8, 2025</sub>
-</p>
 
 
 <!--
