@@ -1,110 +1,138 @@
+<h1 align="center">Hi, I'm Sagnick Das</h1>
+<h3 align="center">Final Year CSE (Data Science) Student | Agentic AI and Full-Stack Developer</h3>
+
 <p align="center">
-  <img width="200" src="https://github.com/imnick48.png" alt="Sagnick Das" style="border-radius:50%"/>
+  <a href="https://www.linkedin.com/in/sagnick-das-71268b176/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/imnick48" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="https://sagnickportfolio48.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:dassagnick48@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-# Hi, I’m Sagnick Das 👋
+---
 
-**Final-year Data Science undergraduate** at MCKV Institute of Engineering, West Bengal.
+## About Me
 
-* 📍 Bagnan, Howrah, India
-* 📫 Reach me: [dassagnick48@gmail.com](mailto:dassagnick48@gmail.com)
-* 💼 LinkedIn: [sagnick-das-71268b176](https://www.linkedin.com/in/sagnick-das-71268b176/)
-* 🌐 Portfolio: [sagnickportfolio48.vercel.app](https://sagnickportfolio48.vercel.app/)
-* 🐙 GitHub: [imnick48](https://github.com/imnick48)
+Final year Computer Science and Engineering (Data Science) undergraduate with strong hands-on experience in Agentic AI, LLM-powered systems, and AI automation. Solid foundations in machine learning, backend engineering, and full-stack development with experience delivering real-world client projects.
+
+Key interests include retrieval-augmented generation, semantic search, automation pipelines, and production-grade AI systems.
 
 ---
 
-## 🎯 Professional Summary
+## Technical Skills
 
-Driven final-year Data Science student with hands-on experience designing AI/ML tools for HR automation and DevOps workflows. Proficient in Python, JavaScript, R, and C++, with strong expertise in NLP, cloud deployment, and data visualization. Delivered end-to-end solutions that streamlined screening processes and enhanced chatbot accuracy.
+### AI and Machine Learning
+- PyTorch, TensorFlow, Scikit-learn
+- LangChain, Hugging Face, Mistral-7B
+- RAG pipelines, semantic search, generative AI
 
----
+### Programming and Frameworks
+- Python, JavaScript, SQL
+- FastAPI, Flask, Express.js
+- React, MongoDB, PostgreSQL
 
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science & Engineering (Data Science)**
-MCKV Institute of Engineering, West Bengal — 2022–2026 (Expected)
-GPA: 8.08/10.0
-Relevant Coursework: Data Structures, Statistics, Machine Learning, Databases
-Activities: Active Member, Coders Club
-
----
-
-## 🛠️ Technical Skills
-
-* **Programming:** Python · JavaScript · R · C++
-* **ML & DL:** TensorFlow · PyTorch · Scikit-Learn
-* **Cloud & DevOps:** AWS · Docker · Git · GitHub Actions
-* **Databases:** MySQL · MongoDB · PostgreSQL · SQLite
-* **Backend & API:** FastAPI · Flask · Express
-* **Frontend:** HTML · CSS · React
-* **NLP Tools:** Hugging Face · NLTK
-* **Visualization:** Matplotlib · Plotly · Tableau
-* **Platforms & IDEs:** Linux · VS Code · Jupyter Notebook
+### Tools and Platforms
+- Git, Docker, AWS
+- ChromaDB, Plotly
 
 ---
 
-## 💼 Experience & Certifications
+## Projects
 
-**Forage BCG GenAI Virtual Internship Certificate**
+### CodeGenX – Autonomous Coding Agent  
+https://github.com/imnick48/CodeGenX
 
-* Analyzed 3 Fortune 500 companies’ 10-K filings (Microsoft, Tesla, Apple), calculating 15+ financial ratios and developing 5 interactive Jupyter visualizations.
-* Engineered a rule-based CLI chatbot with pandas to query CSV financial datasets, achieving 95% accuracy and sub-second response times.
-
-**Certifications:**
-
-* Introduction to Artificial Intelligence by IBM and EduNet Foundation (Mar 2025)
-* Introduction to Large Language Models (May 2025)
-* Building RAG Chatbot Using Python (May 2025)
+- CLI-based coding assistant with project-scoped memory using SQLite
+- Structured JSON-driven code generation pipeline with tool orchestration
+- Reduced manual context re-entry by up to 80 percent in multi-session development workflows
 
 ---
 
-## 🚀 Featured Projects
+### AI-Powered Resume Screener  
+https://github.com/imnick48/Resume_Scanner
 
-### [Resume Scanner](https://github.com/imnick48/Resume_Scanner)
-
-AI-powered resume screening platform built with MiniLM and Mistral-7B to automate candidate evaluation.
-
-* Scalable Flask/PostgreSQL/React stack handling 500+ profiles per job.
-* Automated ranking algorithm (scores 1–100) identifying top 10% candidates with 85% precision.
-
-### [CodeGenX](https://github.com/imnick48/CodeGenX)
-
-Node.js automation agent converting natural language prompts to executable code via OpenRouter AI.
-
-* Achieved 88% success rate on 20+ filesystem operations with JSON validation.
-* SQLite integration storing 500+ conversation histories, boosting AI accuracy by 40%.
-
-### [Research Automation Platform](https://github.com/imnick48/Research_Automation_Platform)
-
-Automated research paper retrieval and vectorization using ArXiv API, LangGraph, and ChromaDB.
-
-* Indexed 100+ papers in under 5 minutes with parallelized processing for fast semantic search.
-* Delivered real-time query responses (under 2 seconds) using integrated RAG pipeline with HuggingFace + Groq LLMs.
+- Resume ranking system using MiniLM embeddings and Mistral-7B-Instruct
+- Full-stack implementation using Flask, PostgreSQL, and React
+- Supports batch ingestion and ranking of 50 to 100 resumes per role
 
 ---
 
-## 📊 GitHub Statistics
+### Research Automation Platform  
+https://github.com/imnick48/ResearchAutomation
 
-<p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=imnick48&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imnick48&layout=compact&theme=default" alt="Top Languages" />
+- Automated multi-stage research pipeline for large-scale academic processing
+- RAG-based question answering system over indexed research papers
+- Millisecond-level retrieval with reduced hallucinations
+
+---
+
+### Adversarial Evasion and Defense Analysis in ML-Based Malware Detection  
+https://github.com/imnick48/ADVERSARIAL-MALWARE-EVASION-AND-DEFENSE-ANALYSIS
+
+- Defense system using adversarial training against evasion attacks
+- Improved adversarial accuracy from 48 percent to 79 percent
+- Hybrid feature selection pipeline processing over 29,000 malware samples
+- Achieved 83 percent baseline detection accuracy on clean data
+
+---
+
+## Experience
+
+### Freelance Full-Stack Developer  
+July 2025 – September 2025
+
+- Built and deployed production-grade web applications using React and FastAPI
+- Developed backend APIs, admin dashboards, and cloud deployments
+- Reduced content update turnaround time from days to under 30 minutes
+
+### Java Development Intern – Ardent Computech Pvt. Ltd.  
+June 2025 – August 2025
+
+- Built a full-stack food ordering system with role-based authentication
+- Implemented Razorpay payment workflows
+- Ensured secure transaction handling and database persistence using MySQL
+
+---
+
+## Education
+
+Bachelor of Technology in Computer Science and Engineering (Data Science)  
+MCKV Institute of Engineering, West Bengal  
+2022 – 2026 (Expected)  
+GPA: 8.30 / 10
+
+---
+
+## Certifications
+
+- BCG Forge GenAI Virtual Internship
+- Building RAG Chatbots with Python
+- Introduction to Large Language Models
+- IBM and EduNet Introduction to AI
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imnick48&show_icons=true&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imnick48&theme=tokyonight" />
+</p>
 
+---
 
+## Contact
 
-<!--
-**imnick48/imnick48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: dassagnick48@gmail.com  
+Portfolio: https://sagnickportfolio48.vercel.app  
+LinkedIn: https://www.linkedin.com/in/sagnick-das-71268b176/
