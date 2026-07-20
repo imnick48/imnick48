@@ -12,7 +12,7 @@
 
 Final-year CS (Data Science) undergrad who spends more time in Docker configs and request queues than in model weights. I build the layer of AI systems that doesn't show up in the demo — the APIs, containers, and concurrency logic that keep things standing once more than one person hits the endpoint at once.
 
-- 🏗️ Shipped 2 production apps end-to-end (React + FastAPI + AWS) — 500+ users, 1,500+ monthly requests, zero-downtime deploys
+- 🏗️ Shipped 2 production apps end-to-end (React + FastAPI + infra) — 500+ users, 1,500+ monthly requests, zero-downtime deploys
 - 🧪 Also spend time on the adversarial side: LLM red-teaming, jailbreak benchmarking, robustness testing
 - 🎓 B.Tech CSE (Data Science), MCKV Institute of Engineering · 2022–2026 · GPA 8.57/10 · 150+ LeetCode solves
 
