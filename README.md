@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="Sagnick Das — Backend & AI Infrastructure Engineer" width="100%" />
+  <img src="./banner.svg" alt="Sagnick Das — Backend & AI Engineer" width="100%" />
 </p>
 
 <p align="center">
