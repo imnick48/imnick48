@@ -10,7 +10,7 @@
 
   <!-- identity block -->
   <text x="56" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="700" fill="#E6EDF3">Sagnick Das</text>
-  <text x="58" y="144" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#56D4C4">Backend &amp; AI Infrastructure Engineer</text>
+  <text x="58" y="144" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#56D4C4">Backend &amp; AI Engineer</text>
   <text x="58" y="172" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="14" fill="#8B949E">LLMs · RAG · Autonomous Agents · Concurrent Systems</text>
   <text x="58" y="226" font-family="'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace" font-size="13" fill="#4B5560">// currently shipping: agents that survive outside the demo</text>
 
